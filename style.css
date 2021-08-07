@@ -1,0 +1,25 @@
+canvas{
+ box-shadow:10px 10px 10px red;
+ border-radius:10px;
+margin-top:30px}
+body{
+ background-size:cover;
+ background-position:center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #oc
+{
+font-size: 18px;
+}
+div{
+    text-align:center;
+}
+label{
+  color:0,0,0,0;  
+}
